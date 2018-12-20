@@ -15,7 +15,7 @@ I would like to improve my model, as well as utilize client webcams and tests to
 
 
 #### Previous Capstone
-https://github.com/MathiasStensrud/capstone_2
+https://github.com/MathiasStensrud/capstone-2
 
 #### References
 http://inimino.org/~inimino/blog/javascript_live_text_input
